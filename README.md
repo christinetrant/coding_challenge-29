@@ -1,4 +1,4 @@
-## t-rex-runner
+## t-rex-runner reimagined as Sonic!
 
 the trex runner game extracted from chrome offline err page.
 
